@@ -13,3 +13,8 @@ What stood out to me is how the article makes requirements feel like the real so
 I also liked the way the article explains why writing code is often the easier step compared to deciding what the software should do. Clear rules and objectives make automation and reuse easier, but most real products live in the messy space full of edge cases, tradeoffs, and changing stakeholder expectations. That framing helped me connect the idea of good engineering to asking better questions early, validating assumptions, and refining requirements as you learn.
 ## Comments from Joy
 I agree -- requirements should be carefully cataloged and treated as source. When technical debt piles up, declaring technical bankruptcy and doing a complete rewrite is often the most cost effective option -- but only if you can reimplement all the requirements that went into the original version.
+
+## Comment – Jonas Chen
+
+What I found most interesting is how the article emphasizes that requirements, not coding, are often the hardest and riskiest part of building software. The example where a requirement is dismissed as “that will never happen” but later becomes a real defect felt very realistic and relatable. It made me realize that many software failures come from incorrect assumptions about how people will actually use a system, rather than from technical mistakes. This reinforced the idea that good software engineering is as much about asking the right questions early as it is about writing correct code.
+
